@@ -1,0 +1,18 @@
+#ballPic {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+#playerY {
+    background-color: gray;
+    width: 40px;
+    height: 40px;
+}
+
+#playerX {
+    background-color: black;
+    width: 40px;
+    height: 40px;
+}
